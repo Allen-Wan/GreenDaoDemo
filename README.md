@@ -49,4 +49,4 @@ public class LoveDao {
 ```
 ##原文阅读
 
-![Android实战——GreenDao3.2的使用，爱不释手](http://blog.csdn.net/qq_30379689/article/details/54410838)
+[Android实战——GreenDao3.2的使用，爱不释手](http://blog.csdn.net/qq_30379689/article/details/54410838)
